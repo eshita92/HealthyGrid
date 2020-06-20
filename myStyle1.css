@@ -1,0 +1,213 @@
+html,body{
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+    font-size:15px;
+    line-height:1.5
+}
+
+html{
+	overflow-x:hidden
+}
+
+
+	
+h2{
+	font-size:30px
+}
+h3{
+	font-size:24px
+}
+
+h4{
+	font-size:20px
+}
+
+h5{
+	font-size:18px
+}
+
+h6{
+	font-size:16px
+}
+
+
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Trebuchet MS", Helvetica, sans-serif}
+}
+
+
+
+hr{
+	border:0;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  border: none;
+  color: white;
+  background-color: inherit;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+.btn,.button{
+	border:none;
+	display:inline-block;
+	padding:8px 16px;
+	vertical-align:middle;
+	overflow:hidden;
+	text-decoration:none;
+	color:inherit;
+	background-color:inherit;
+	text-align:center;
+	cursor:pointer;
+	white-space:nowrap
+}
+
+.btn:hover{
+	box-shadow:0 8px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+}
+
+   
+
+.input{
+	padding:8px;
+	display:block;
+	border:none;
+	border-bottom:1px solid #ccc;
+	width:100%;
+}
+
+
+.bar{
+	width:100%;
+	overflow:hidden;
+}
+
+
+.bar .bar-item{
+	padding:8px 16px;
+	float:left;
+	width:auto;
+	border:none;
+	display:block;
+	outline:0;
+}
+
+
+
+.bar-block .bar-item{
+	width:100%;
+	display:block;
+	padding:8px 16px;
+	text-align:left;
+	border:none;
+	white-space:normal;
+	float:none;
+	outline:0
+}
+
+
+.round,.round-medium{
+	border-radius:4px;
+}
+
+.bar-block .center .bar-item{
+	text-align:center
+}
+
+.opacity,.hover-opacity:hover{
+	opacity:0.8
+}
+
+.opacity-off,.hover-opacity-off:hover{
+	opacity:1
+}
+
+.xlarge{
+	font-size:20px
+}
+
+.xxlarge{
+	font-size:36px
+}
+
+.xxxlarge{
+	font-size:48px
+}
+
+.button:hover{
+	color:#000;
+	background-color:#ccc}
+	
+.
+/* Colors */
+
+.w3-blue-grey,.w3-hover-blue-grey:hover,.w3-blue-gray,.w3-hover-blue-gray:hover{
+	color:#fff;background-color:#607d8b;
+}
+
+.green,.hover-green:hover{
+	color:#fff;
+	background-color:#4CAF50;
+}
+
+.w3-light-green,.w3-hover-light-green:hover{
+	color:#000;
+	background-color:#8bc34a;
+}
+
+.black,.hover-black:hover{
+	color:#fff;
+	background-color:#000;
+}
+
+.red,.hover-red:hover{
+	color:#fff;
+	background-color:#f44336;
+}
+
+.gray {
+	color:#fff;
+	background-color:#747C7C;
+}
+
+.left-align{
+	text-align:left;
+	}
+	
+.right-align{
+	align:right;
+	
